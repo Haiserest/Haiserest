@@ -1,9 +1,9 @@
 # HAISEREST
 
 <div> 
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haiserest&layout=compact&langs_count=16&theme=dark">
-  <p><p>
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Haiserest&show_icons=true&theme=dark">
+  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haiserest&layout=compact&langs_count=16&theme=dark">
+  &nbsp;
+  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Haiserest&show_icons=True&hide_rank=True&theme=dark">
 </div>
 
 
