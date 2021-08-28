@@ -24,10 +24,11 @@
   
 </div>
 
-![Snake animation](https://github.com/Haiserest/Haiserest/blob/output/github-contribution-grid-snake.svg)
-
 ------------------------------------------------------------------
 #### etc.
+
+![Snake animation](https://github.com/Haiserest/Haiserest/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   
   <a href="https://steamcommunity.com/id/Haiserest" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;
