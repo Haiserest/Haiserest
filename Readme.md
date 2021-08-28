@@ -24,6 +24,8 @@
   
 </div>
 
+![Snake animation](https://github.com/Haiserest/Haiserest/blob/output/github-contribution-grid-snake.svg)
+
 ------------------------------------------------------------------
 #### etc.
 <div>
