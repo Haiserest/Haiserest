@@ -8,7 +8,6 @@
 
 
 ## SKILL
- ### BASIC
 <div>
   
   * #### LANGUAGE
